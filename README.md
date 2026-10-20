@@ -8,7 +8,7 @@ no rows of recommendations, no internet access at all.
 
 *Recorded on a Sharp AQUOS 4K TV. KIDŌ (起動) means "start up".*
 
-**Android TV 8.0+ · 235 KB · no internet permission · free and open source (MIT)**
+**Android TV 8.0+ · 222 KB · no internet permission · free and open source (MIT)**
 
 **Try it in your browser:** [glidian.dev/kido/demo](https://glidian.dev/kido/demo/) (arrow keys and Enter are the remote)
 
