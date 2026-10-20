@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lint>
+    <!-- The interface is deliberately English and Japanese, not translated. -->
+    <issue id="SetTextI18n" severity="ignore" />
+    <!-- Views are built in code, never inflated from XML. -->
+    <issue id="ViewConstructor" severity="ignore" />
+    <!-- A TV home screen: always landscape, and the icon is a full-bleed square on purpose. -->
+    <issue id="DiscouragedApi" severity="ignore" />
+    <issue id="IconLauncherShape" severity="ignore" />
+    <issue id="IconMissingDensityFolder" severity="ignore" />
+    <!-- Backups are off; there is nothing to extract. -->
+    <issue id="DataExtractionRules" severity="ignore" />
+</lint>
